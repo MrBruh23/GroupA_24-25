@@ -1,0 +1,15 @@
+.header{
+    background-color: blueviolet;
+    min-height: 50px;
+    border-radius: 15px;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+
+}
+.text{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
