@@ -1,5 +1,8 @@
 .header{
     background-color: blueviolet;
+    border-radius: 15px;
+    border: 10px solid;
+    border-color: rgb(14, 219, 14);
     min-height: 50px;
     border-radius: 15px;
     text-align: center;
